@@ -1,6 +1,5 @@
-# NeuroComp
+# Computational Neuroscience Codes
 
-Computational Neuroscience Codes
 <a href="https://github.com/limadlp/NeuroComp/tree/main/Cpp" target="blank">**Classes em C++**</a>
 
 Para facilitar a utilização e reutilização de vários modelos de neurônios, desenvolvi uma interface computacional com diferentes modelos de redes, dinâmicas neuronais e sinapses.
